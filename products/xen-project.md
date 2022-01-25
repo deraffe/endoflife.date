@@ -16,47 +16,47 @@ changelogTemplate: "https://wiki.xenproject.org/wiki/Xen_Project___RELEASE_CYCLE
 
 releases:
 
-  - releaseCycle: "4.4"
-    eol: 2017-03
-    support: 2015-09
-    release: 2014-03-10
-    cycleShortHand: "404"
-
-  - releaseCycle: "4.5"
-    eol: 2018-01
-    support: 2016-07
-    release: 2015-01-15
-    cycleShortHand: "405"
-
-  - releaseCycle: "4.6"
-    eol: 2018-10
-    support: 2017-04
-    release: 2015-10-13
-    cycleShortHand: "406"
-
-  - releaseCycle: "4.7"
-    eol: 2019-06
-    support: 2017-12
-    release: 2016-06-20
-    cycleShortHand: "407"
-
-  - releaseCycle: "4.8"
-    eol: 2019-12
-    support: 2018-06
-    release: 2016-12-05
-    cycleShortHand: "408"
-
-  - releaseCycle: "4.9"
-    eol: 2020-07
-    support: 2019-01
-    release: 2017-06-28
-    cycleShortHand: "409"
-
-  - releaseCycle: "4.10"
-    eol: 2020-12-13
-    support: 2019-06-13
-    release: 2017-12-13
-    cycleShortHand: "410"
+#  - releaseCycle: "4.4"
+#    eol: 2017-03
+#    support: 2015-09
+#    release: 2014-03-10
+#    cycleShortHand: "404"
+#
+#  - releaseCycle: "4.5"
+#    eol: 2018-01
+#    support: 2016-07
+#    release: 2015-01-15
+#    cycleShortHand: "405"
+#
+#  - releaseCycle: "4.6"
+#    eol: 2018-10
+#    support: 2017-04
+#    release: 2015-10-13
+#    cycleShortHand: "406"
+#
+#  - releaseCycle: "4.7"
+#    eol: 2019-06
+#    support: 2017-12
+#    release: 2016-06-20
+#    cycleShortHand: "407"
+#
+#  - releaseCycle: "4.8"
+#    eol: 2019-12
+#    support: 2018-06
+#    release: 2016-12-05
+#    cycleShortHand: "408"
+#
+#  - releaseCycle: "4.9"
+#    eol: 2020-07
+#    support: 2019-01
+#    release: 2017-06-28
+#    cycleShortHand: "409"
+#
+#  - releaseCycle: "4.10"
+#    eol: 2020-12-13
+#    support: 2019-06-13
+#    release: 2017-12-13
+#    cycleShortHand: "410"
 
   - releaseCycle: "4.11"
     eol: 2021-07-10
